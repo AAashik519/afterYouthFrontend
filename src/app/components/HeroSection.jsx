@@ -8,7 +8,7 @@ const HeroSection = () => {
   const pricePerScholarship = 1650
 
   return (
-    <section className="relative min-h-screen">
+    <section className="relative min-h-[650px]">
       <div className="absolute inset-0">
         <Image 
           src={heroPic}
